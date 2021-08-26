@@ -1,0 +1,2 @@
+Teaching myself how to play fizzbuzz with javascript.
+
